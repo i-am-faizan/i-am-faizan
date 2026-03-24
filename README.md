@@ -26,14 +26,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--# 🚀 Faizan Khan | Full Stack Developer
+# 🚀 Faizan Khan | Full Stack Developer
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Faizan%20Khan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Next.js+Expert;Building+Modern+Web+Apps;Open+Source+Contributor" />
+ <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=React.js+Expert;Full-Stack+MERN+Developer" />
 </p>
 
 ---
@@ -130,76 +130,4 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" />
-</p> -->
-
-
-
-# 👋 Hi, I'm Faizan Khan
-
-🚀 Passionate Full-Stack / MERN Stack Developer | Building modern, scalable web apps
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-React.js • HTML5 • CSS3 • JavaScript • Tailwind CSS
-
-### 🧠 Backend
-Node.js • Express.js • Convex • Supabase
-
-### 🗄️ Database
-MongoDB • PostgreSQL
-
-### 🔐 Auth & Security
-Clerk • JWT • Google Auth
-
-### 💳 Payments & Services
-Stripe • Razorpay • Cloudinary • Nodemailer
-
-### ⚙️ Tools
-Git • GitHub • Postman • Vercel
-
----
-
-## 🚀 Top Projects
-
-- 🔥 **Edemy-LMS** – Full LMS platform with authentication & payments  
-- 💸 **Flip-Earn** – Earning & referral-based platform  
-- 🏥 **CureConnect** – Healthcare connection system  
-- 🌾 **AgriConnect** – Farmer support & marketplace  
-- 🎓 **Career-Mentorship** – Student guidance platform  
-- 🎬 **MediaHub** – Content sharing platform  
-- ☕ **Your-Cafe** – Cafe management system  
-- 👨‍💻 **Dev_Profiles** – Developer portfolio platform  
-- 🖼️ **ImageGenesis** – AI image generation tool  
-- 📝 **Notes-Store** – Notes selling platform  
-
----
-
-## 🧠 Skills
-
-C • C++ • JavaScript • Python • React • MongoDB • Node.js • Express • Tailwind CSS • Supabase • ChatGPT
-
----
-
-## 🌍 Connect With Me
-
-- [Twitter](https://twitter.com/your-profile)  
-- [LinkedIn](https://linkedin.com/in/your-profile)  
-- [Instagram](https://instagram.com/your-profile)  
-- [Facebook](https://facebook.com/your-profile)  
-- [CodeChef](https://codechef.com/users/your-profile)  
-- [HackerRank](https://hackerrank.com/your-profile)  
-- [LeetCode](https://leetcode.com/your-profile)  
-- [GeeksforGeeks](https://geeksforgeeks.org/user/your-profile)  
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+</p> 
