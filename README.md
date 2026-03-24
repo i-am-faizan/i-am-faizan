@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 
 ## 🧑‍💻 About Me
 
-* 🎓 B.Tech Student & Frontend Developer
+* 🎓 B.Tech Student & Full Stack Developer
 * 💡 Passionate about building real-world projects
-* 🚀 Currently working on LMS & Full Stack Apps
-* 🛠️ Love React, Next.js & Modern UI Design
+* 🚀 Currently working on E-Commerce & Full Stack Apps
+* 🛠️ Love React, & Modern UI Design
 
 ---
 
@@ -51,15 +51,11 @@ Here are some ideas to get you started:
 
 ### 🌐 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
-</p>
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge)
 
 ### 🧠 Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
-</p>
+![Node](https://img.shields.io/badge/Node.js-green?style=for-the-badge)
 
 ### 🗄️ Database
 
@@ -75,7 +71,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 Featured Projects
+<!-- ## 🚀 Featured Projects
 
 | Project               | Description                                      |
 | --------------------- | ------------------------------------------------ |
@@ -83,7 +79,7 @@ Here are some ideas to get you started:
 | **CureConnect**       | Healthcare connection platform                   |
 | **AgriConnect**       | Farmer support & marketplace                     |
 | **Career Mentorship** | Student guidance system                          |
-| **MediaHub**          | Content sharing platform                         |
+| **MediaHub**          | Content sharing platform                         | -->
 
 ---
 
