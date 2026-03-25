@@ -1,31 +1,3 @@
-<!--# Hi 👋, I'm Faizan Khan
-
-## 🚀 Tech Stack
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge)
-![Node](https://img.shields.io/badge/Node.js-green?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge)
-
-## 🔥 Top Projects
-![Job Portal](https://img.shields.io/badge/Job_Portal-Full_Stack-blue?style=for-the-badge)
-![Ecommerce](https://img.shields.io/badge/Ecommerce-App-orange?style=for-the-badge)
-
-## 🌐 Connect with me
-[LinkedIn](https://linkedin.com)
-<!--
-**i-am-faizan/i-am-faizan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 🚀 Faizan Khan | Full Stack Developer
 
 <p align="center">
@@ -69,7 +41,7 @@ Here are some ideas to get you started:
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<your-username>/<your-username>/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/i-am-faizan/i-am-faizan/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -90,15 +62,13 @@ Here are some ideas to get you started:
 
 ### 🗄️ Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
-</p>
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
 
 ### 🔐 Auth & Services
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vercel" />
-</p>
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
