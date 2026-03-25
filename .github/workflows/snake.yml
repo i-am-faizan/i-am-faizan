@@ -19,9 +19,11 @@ jobs:
       - name: Generate snake
         uses: Platane/snk@v3
         with:
-          github_user_name: i-am-faizan
-          outputs: dist/github-contribution-grid-snake.svg
-
+         github_user_name: i-am-faizan
+       outputs: |
+         dist/github-contribution-grid-snake.svg
+         dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+  
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
